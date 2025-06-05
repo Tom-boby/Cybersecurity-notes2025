@@ -14,6 +14,9 @@ Cybersecurity is the **practice of protecting systems, networks, and programs** 
 
 ## 🔐 Three Key Domains in Cybersecurity
 
+![image](https://github.com/user-attachments/assets/b8d23076-c81f-42b7-a72b-505861bf5abd)
+
+
 Cybersecurity is broadly classified into **three operational domains**, each with a distinct role in securing digital infrastructure:
 
 ### 1. **Blue Team** (Defensive Security)
