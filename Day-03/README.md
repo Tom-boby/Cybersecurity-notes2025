@@ -1,1 +1,1 @@
-# updateing soon..!
+# updating soon..!
